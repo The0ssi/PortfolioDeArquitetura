@@ -12,7 +12,7 @@ que simula um portfólio profissional na área de arquitetura, valorizando a est
 
 # Como visualizar
 1. Faça o download ou clone este repositório:
-https://github.com/seuusuario/PortfolioDeArquitetura.git
+the0ssi.github.io/PortfolioDeArquitetura/
 2. Abra o arquivo 'index.html' em seu navegador.
 
 # Autora
